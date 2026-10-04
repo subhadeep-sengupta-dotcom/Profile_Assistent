@@ -1,0 +1,2 @@
+{"sequence_number": 1, "timestamp": "2026-10-04T17:17:09.729903+00:00", "error_category": "ConfigurationError", "safe_diagnostic_details": "GROQ_API_KEY is not configured in the application environment."}
+{"sequence_number": 2, "timestamp": "2026-10-04T17:26:08.637950+00:00", "error_category": "ConfigurationError", "safe_diagnostic_details": "GROQ_API_KEY is not configured in the application environment."}
